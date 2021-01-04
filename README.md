@@ -1,4 +1,4 @@
-# JaENCOCO
+# JaEnCOCO
 This is the Japanese translation for the Ambiguous COCO dataset.
 
 ## How to Construct Each Dataset
