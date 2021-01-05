@@ -28,6 +28,10 @@ Now, we will explain how to combine this data with the English Ambiguous COCO se
 
 3. The provided image file name list in each folder can be used to link each sentence to the corresponding image. (the file names are ordered in the same order as the sentences. i.e., The first file name in the validation set corresponds to the first validation sentence, etc.)
 
+## Training Data
+For standard training data, please use the [Flickr30kEntities Japanese (F30kEnt-Jp) dataset](https://github.com/nlab-mpg/Flickr30kEnt-JP).
+
+As additional training data, you can use the [MS COCO English image captions](https://cocodataset.org/#captions-2015) and [STAIR Japanese image captions](https://stair-lab-cit.github.io/STAIR-captions-web/).
 
 ## Reference
 If you use this dataset, please cite the following [paper](https://arxiv.org/pdf/2010.08725.pdf):
